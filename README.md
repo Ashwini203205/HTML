@@ -25,3 +25,10 @@ Small & Big Tag,
 Subscription & Superscription Tag,
 Pre Tag
 
+DAY 4
+
+DAY 5
+ 
+DAY 6
+
+My Resume uding HTML
