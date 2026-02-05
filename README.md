@@ -26,6 +26,19 @@ Subscription & Superscription Tag,
 Pre Tag
 
 DAY 4
+LAYOUT TECHNIQUES,
+PAGE LAYOUT TECHNIQUES:
+SEMANTIC:                 
+       1. header tag
+       2. main tag
+       3. ection tag
+       4. artical tag
+       5. target tag
+       6. aside tag
+NON SEMANTIC:
+       1. div tag
+       2. span tag
+       3. footer tag
 
 DAY 5
  
