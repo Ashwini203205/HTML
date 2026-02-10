@@ -44,4 +44,6 @@ DAY 5
  
 DAY 6
 
-My Resume uding HTML
+My Resume using HTML.
+
+HTML DONE..
